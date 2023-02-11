@@ -1,0 +1,32 @@
+table {
+    font-family: Bangers;
+    border-collapse: collapse;
+    width: 100%;
+    transform:translate(0px, 60px);
+    overflow: hidden;
+    transform: translateY(40px);
+    
+  }
+
+  td, th {
+    border: 4px solid black;
+    text-align: left;
+    padding: 8px;
+    color: #EDF5E1;
+    font-size: 40px;
+  
+  }
+
+  th {
+    background-color:#053868;
+  }
+*{
+    margin: 0%;
+    background-color: #5CDB95;
+    font-family: Bangers;
+}
+p{
+  padding-left: 300px;
+  padding-top: 50px;
+  font-size: 2rem;
+}

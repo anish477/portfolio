@@ -1,0 +1,27 @@
+*{
+  margin: 0%;
+    font-family: Bangers;
+    background-color: #5CDB95 ;
+    overflow-x: hidden;
+}
+h1{
+  transform: translate(660px, 40px);
+  font-size: 3rem;
+}
+    
+
+.container {
+  margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 20px solid white;
+  }
+  .item {
+    width: 30%;
+    padding: 10px;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }

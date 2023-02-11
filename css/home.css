@@ -1,0 +1,34 @@
+*{
+    background-color: #5CDB95 ;
+    color: black  ;
+    font-family: Bangers;
+
+
+}
+body {
+   
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color:#053868   ;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0;
+  }
+  main {
+    padding: 20px;
+  }
+  section {
+    margin-bottom: 20px;
+  }
+  h2 {
+    color: #EDF5E1 ;
+    margin-bottom: 10px;
+    font-size: 40PX;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+  }
